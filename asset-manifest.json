@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Gaia-Player/static/css/main.fb18c999.chunk.css",
-    "main.js": "/Gaia-Player/static/js/main.c22c046a.chunk.js",
-    "main.js.map": "/Gaia-Player/static/js/main.c22c046a.chunk.js.map",
+    "main.css": "/Gaia-Player/static/css/main.1292f9be.chunk.css",
+    "main.js": "/Gaia-Player/static/js/main.063dcafb.chunk.js",
+    "main.js.map": "/Gaia-Player/static/js/main.063dcafb.chunk.js.map",
     "runtime-main.js": "/Gaia-Player/static/js/runtime-main.3cb7a282.js",
     "runtime-main.js.map": "/Gaia-Player/static/js/runtime-main.3cb7a282.js.map",
     "static/js/2.44c0401b.chunk.js": "/Gaia-Player/static/js/2.44c0401b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.48028742.chunk.js": "/Gaia-Player/static/js/3.48028742.chunk.js",
     "static/js/3.48028742.chunk.js.map": "/Gaia-Player/static/js/3.48028742.chunk.js.map",
     "index.html": "/Gaia-Player/index.html",
-    "static/css/main.fb18c999.chunk.css.map": "/Gaia-Player/static/css/main.fb18c999.chunk.css.map",
+    "static/css/main.1292f9be.chunk.css.map": "/Gaia-Player/static/css/main.1292f9be.chunk.css.map",
     "static/js/2.44c0401b.chunk.js.LICENSE.txt": "/Gaia-Player/static/js/2.44c0401b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cb7a282.js",
     "static/js/2.44c0401b.chunk.js",
-    "static/css/main.fb18c999.chunk.css",
-    "static/js/main.c22c046a.chunk.js"
+    "static/css/main.1292f9be.chunk.css",
+    "static/js/main.063dcafb.chunk.js"
   ]
 }
