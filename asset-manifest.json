@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Gaia-Player/static/css/main.1292f9be.chunk.css",
-    "main.js": "/Gaia-Player/static/js/main.063dcafb.chunk.js",
-    "main.js.map": "/Gaia-Player/static/js/main.063dcafb.chunk.js.map",
-    "runtime-main.js": "/Gaia-Player/static/js/runtime-main.3cb7a282.js",
-    "runtime-main.js.map": "/Gaia-Player/static/js/runtime-main.3cb7a282.js.map",
-    "static/js/2.44c0401b.chunk.js": "/Gaia-Player/static/js/2.44c0401b.chunk.js",
-    "static/js/2.44c0401b.chunk.js.map": "/Gaia-Player/static/js/2.44c0401b.chunk.js.map",
-    "static/js/3.48028742.chunk.js": "/Gaia-Player/static/js/3.48028742.chunk.js",
-    "static/js/3.48028742.chunk.js.map": "/Gaia-Player/static/js/3.48028742.chunk.js.map",
+    "main.js": "/Gaia-Player/static/js/main.bd9b8413.chunk.js",
+    "main.js.map": "/Gaia-Player/static/js/main.bd9b8413.chunk.js.map",
+    "runtime-main.js": "/Gaia-Player/static/js/runtime-main.8cb1761e.js",
+    "runtime-main.js.map": "/Gaia-Player/static/js/runtime-main.8cb1761e.js.map",
+    "static/js/2.01ec45a0.chunk.js": "/Gaia-Player/static/js/2.01ec45a0.chunk.js",
+    "static/js/2.01ec45a0.chunk.js.map": "/Gaia-Player/static/js/2.01ec45a0.chunk.js.map",
+    "static/js/3.7be34961.chunk.js": "/Gaia-Player/static/js/3.7be34961.chunk.js",
+    "static/js/3.7be34961.chunk.js.map": "/Gaia-Player/static/js/3.7be34961.chunk.js.map",
     "index.html": "/Gaia-Player/index.html",
     "static/css/main.1292f9be.chunk.css.map": "/Gaia-Player/static/css/main.1292f9be.chunk.css.map",
-    "static/js/2.44c0401b.chunk.js.LICENSE.txt": "/Gaia-Player/static/js/2.44c0401b.chunk.js.LICENSE.txt"
+    "static/js/2.01ec45a0.chunk.js.LICENSE.txt": "/Gaia-Player/static/js/2.01ec45a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cb7a282.js",
-    "static/js/2.44c0401b.chunk.js",
+    "static/js/runtime-main.8cb1761e.js",
+    "static/js/2.01ec45a0.chunk.js",
     "static/css/main.1292f9be.chunk.css",
-    "static/js/main.063dcafb.chunk.js"
+    "static/js/main.bd9b8413.chunk.js"
   ]
 }
