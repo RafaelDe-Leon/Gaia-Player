@@ -19,6 +19,14 @@ body {
   }
 }
 
+.App {
+  transition: all 0.5s ease;
+}
+
+.libary-active {
+  margin-left: 15%;
+}
+
 @import './player';
 @import './song';
 @import './library';
